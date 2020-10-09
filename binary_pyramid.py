@@ -8,8 +8,8 @@ www.brick.technology
 import time
 
 # User Control Variables
-max_height = 41                             # How high do you want your pyramids?
-num_pyramid = 17                             # How many pyramids do you want?
+max_height = 25                             # How high do you want your pyramids?
+num_pyramid = 5                             # How many pyramids do you want?
 
 # Loop Controls
 time_thru = 1
