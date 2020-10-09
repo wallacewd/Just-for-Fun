@@ -1,4 +1,4 @@
-# Just-for-Fun
+# Python ideas for beginners
 Miscellaneous code ideas for new programmers
 
 Welcome! This is a collection of fun code ideas for python beginners looking to sharpen their skills.
