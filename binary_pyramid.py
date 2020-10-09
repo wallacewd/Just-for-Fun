@@ -55,4 +55,6 @@ while pyramid_thru <= num_pyramid:
     if max_height == max_height_mem:
         print("/")
     else:
-        pass     
+        pass   
+    
+# <(^_^<)end(>^_^)>
